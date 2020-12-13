@@ -1,2 +1,2 @@
 # bitbar-plugins
-Personal plugins for bitbar
+Personal plugins for [bitbar](https://github.com/matryer/bitbar)
