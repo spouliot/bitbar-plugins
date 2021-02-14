@@ -1,6 +1,8 @@
 # Flite Plugin
 
-[Bitbar](https://github.com/matryer/bitbar) plugin for [Flite](https://www.flitesense.com/) compatible controllers.
+[Bitbar](https://github.com/matryer/bitbar) plugin for [Flite](https://www.flitesense.com/) compatible controllers, including my [own](https://github.com/spouliot/kegerator).
+
+![BitBar Plugin](bitbar.png "Plugin for bitbar")
 
 ## Requirements
 
