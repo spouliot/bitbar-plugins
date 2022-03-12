@@ -9,8 +9,8 @@ client.DefaultRequestHeaders.Add ("Authorization", $"Basic {auth}");
 Console.WriteLine (":beer:");
 Console.WriteLine ("---");
 
-var complete = await client.GetAsync ("https://api.brewfather.app/v1/batches?status=Conditioning&complete=True");
-File.WriteAllText ("conditioning.json", await complete.Content.ReadAsStringAsync ());
+// var complete = await client.GetAsync ("https://api.brewfather.app/v1/batches?status=Conditioning&complete=True");
+// File.WriteAllText ("complete.json", await complete.Content.ReadAsStringAsync ());
 
 // fermenting beers
 Console.WriteLine ("Fermenting");
